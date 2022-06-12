@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Enterprise-Applications-Semeste/static/css/main.e7720ab7.css",
+    "main.js": "/Enterprise-Applications-Semeste/static/js/main.dc94990f.js",
+    "index.html": "/Enterprise-Applications-Semeste/index.html",
+    "main.e7720ab7.css.map": "/Enterprise-Applications-Semeste/static/css/main.e7720ab7.css.map",
+    "main.dc94990f.js.map": "/Enterprise-Applications-Semeste/static/js/main.dc94990f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7720ab7.css",
+    "static/js/main.dc94990f.js"
+  ]
+}
